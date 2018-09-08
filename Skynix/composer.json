@@ -1,0 +1,11 @@
+{
+	"name" : "Skynix/MagentoKnowlege",
+	"autoload" : {
+		"psr-4" : {
+			"Skynix\\MagentoKnowlege\\" : ""
+		},
+		"files" : [
+			"registration.php"
+		]
+	}
+}
